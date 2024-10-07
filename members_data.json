@@ -1,0 +1,122 @@
+[
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/172/Thumbnail",
+        "Primary Info": "Ms Diane Abbott",
+        "Secondary Info": "Labour",
+        "Indicator Label": "Hackney North and Stoke Newington"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/5131/Thumbnail",
+        "Primary Info": "Jack Abbott",
+        "Secondary Info": "Labour (Co-op)",
+        "Indicator Label": "Ipswich"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/4212/Thumbnail",
+        "Primary Info": "Debbie Abrahams",
+        "Secondary Info": "Labour",
+        "Indicator Label": "Oldham East and Saddleworth"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/5120/Thumbnail",
+        "Primary Info": "Shockat Adam",
+        "Secondary Info": "Independent",
+        "Indicator Label": "Leicester South"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/5213/Thumbnail",
+        "Primary Info": "Dr Zubir Ahmed",
+        "Secondary Info": "Labour",
+        "Indicator Label": "Glasgow South West"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/5112/Thumbnail",
+        "Primary Info": "Luke Akehurst",
+        "Secondary Info": "Labour",
+        "Indicator Label": "North Durham"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/5097/Thumbnail",
+        "Primary Info": "Mr Bayo Alaba",
+        "Secondary Info": "Labour",
+        "Indicator Label": "Southend East and Rochford"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/5172/Thumbnail",
+        "Primary Info": "Dan Aldridge",
+        "Secondary Info": "Labour",
+        "Indicator Label": "Weston-super-Mare"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/632/Thumbnail",
+        "Primary Info": "Mr Douglas Alexander",
+        "Secondary Info": "Labour (Co-op)",
+        "Indicator Label": "Lothian East"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/4038/Thumbnail",
+        "Primary Info": "Heidi Alexander",
+        "Secondary Info": "Labour",
+        "Indicator Label": "Swindon South"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/5312/Thumbnail",
+        "Primary Info": "Sadik Al-Hassan",
+        "Secondary Info": "Labour",
+        "Indicator Label": "North Somerset"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/4138/Thumbnail",
+        "Primary Info": "Rushanara Ali",
+        "Secondary Info": "Labour",
+        "Indicator Label": "Bethnal Green and Stepney"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/4747/Thumbnail",
+        "Primary Info": "Tahir Ali",
+        "Secondary Info": "Labour",
+        "Indicator Label": "Birmingham Hall Green and Moseley"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/4573/Thumbnail",
+        "Primary Info": "Dr Rosena Allin-Khan",
+        "Secondary Info": "Labour",
+        "Indicator Label": "Tooting"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/5356/Thumbnail",
+        "Primary Info": "Jim Allister",
+        "Secondary Info": "Traditional Unionist Voice",
+        "Indicator Label": "North Antrim"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/4667/Thumbnail",
+        "Primary Info": "Mike Amesbury",
+        "Secondary Info": "Labour",
+        "Indicator Label": "Runcorn and Helsby"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/5250/Thumbnail",
+        "Primary Info": "Mr Gideon Amos",
+        "Secondary Info": "Liberal Democrat",
+        "Indicator Label": "Taunton and Wellington"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/5193/Thumbnail",
+        "Primary Info": "Callum Anderson",
+        "Secondary Info": "Labour",
+        "Indicator Label": "Buckingham and Bletchley"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/4788/Thumbnail",
+        "Primary Info": "Fleur Anderson",
+        "Secondary Info": "Labour",
+        "Indicator Label": "Putney"
+    },
+    {
+        "Image": "https://members-api.parliament.uk/api/Members/4743/Thumbnail",
+        "Primary Info": "Lee Anderson",
+        "Secondary Info": "Reform UK",
+        "Indicator Label": "Ashfield"
+    }
+]
